@@ -7,8 +7,8 @@ sites:
     url: https://aviationcharges.iata.org
   - name: SNAP
     url: https://supplylink.iata.org
-  - name: WebStar Extranet
-    url: https://webstar.iatan.org/WebStarExtranetWEB
+  - name: WebStar
+    url: https://webstar.iatan.org
   - name: PASS
     url: https://pass.iata.org
 
