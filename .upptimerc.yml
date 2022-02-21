@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: shomaru # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -13,7 +13,7 @@ sites:
     url: https://pass.iata.org
 
 status-website:
-  cname: upptime.js.org
+  baseUrl: /upptime
   name: Upptime
 
 # Upptime also supports notifications, assigning issues, and more
