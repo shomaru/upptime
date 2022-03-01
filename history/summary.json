@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 408,
-    "timeWeek": 557,
-    "timeMonth": 557,
-    "timeYear": 557,
+    "time": 570,
+    "timeDay": 754,
+    "timeWeek": 556,
+    "timeMonth": 570,
+    "timeYear": 570,
     "dailyMinutesDown": {}
   },
   {
@@ -22,53 +22,59 @@
     "url": "https://supplylink.iata.org",
     "icon": "https://favicons.githubusercontent.com/supplylink.iata.org",
     "slug": "snap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 440,
-    "timeWeek": 595,
-    "timeMonth": 595,
-    "timeYear": 595,
-    "dailyMinutesDown": {}
+    "time": 581,
+    "timeDay": 482,
+    "timeWeek": 544,
+    "timeMonth": 581,
+    "timeYear": 581,
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "WebStar",
     "url": "https://webstar.iatan.org",
     "icon": "https://favicons.githubusercontent.com/webstar.iatan.org",
     "slug": "web-star",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 890,
-    "timeDay": 868,
-    "timeWeek": 890,
-    "timeMonth": 890,
-    "timeYear": 890,
-    "dailyMinutesDown": {}
+    "time": 867,
+    "timeDay": 739,
+    "timeWeek": 991,
+    "timeMonth": 867,
+    "timeYear": 867,
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "PASS",
     "url": "https://pass.iata.org",
     "icon": "https://favicons.githubusercontent.com/pass.iata.org",
     "slug": "pass",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 600,
-    "timeDay": 459,
-    "timeWeek": 600,
-    "timeMonth": 600,
-    "timeYear": 600,
-    "dailyMinutesDown": {}
+    "time": 587,
+    "timeDay": 497,
+    "timeWeek": 557,
+    "timeMonth": 587,
+    "timeYear": 587,
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   }
 ]
