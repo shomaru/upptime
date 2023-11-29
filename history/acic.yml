@@ -1,7 +1,7 @@
 url: https://aviationcharges.iata.org
-status: up
-code: 200
-responseTime: 501
-lastUpdated: 2023-11-28T23:47:46.413Z
+status: down
+code: 503
+responseTime: 954
+lastUpdated: 2023-11-29T08:28:48.718Z
 startTime: 2022-02-21T02:39:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
