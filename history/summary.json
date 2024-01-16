@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 662,
-    "timeDay": 628,
-    "timeWeek": 642,
-    "timeMonth": 789,
+    "timeDay": 602,
+    "timeWeek": 610,
+    "timeMonth": 785,
     "timeYear": 678,
     "dailyMinutesDown": {
       "2023-11-29": 55,
@@ -33,12 +33,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 146,
-    "timeDay": 230,
-    "timeWeek": 189,
-    "timeMonth": 160,
+    "timeDay": 162,
+    "timeWeek": 185,
+    "timeMonth": 158,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-01-15": 106,
+      "2024-01-16": 569,
+      "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
@@ -401,8 +402,7 @@
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
-      "2023-01-17": 1440,
-      "2023-01-16": 1440
+      "2023-01-17": 1440
     }
   },
   {
@@ -410,18 +410,20 @@
     "url": "https://supplylink.iata.org",
     "icon": "https://icons.duckduckgo.com/ip3/supplylink.iata.org.ico",
     "slug": "snap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 643,
-    "timeDay": 616,
-    "timeWeek": 549,
-    "timeMonth": 587,
+    "timeDay": 526,
+    "timeWeek": 532,
+    "timeMonth": 577,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 0
+    }
   },
   {
     "name": "WebStar",
@@ -435,10 +437,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 805,
-    "timeDay": 717,
-    "timeWeek": 741,
-    "timeMonth": 744,
-    "timeYear": 809,
+    "timeDay": 694,
+    "timeWeek": 699,
+    "timeMonth": 732,
+    "timeYear": 808,
     "dailyMinutesDown": {
       "2023-11-22": 67
     }
@@ -455,9 +457,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 638,
-    "timeDay": 598,
-    "timeWeek": 1213,
-    "timeMonth": 707,
+    "timeDay": 571,
+    "timeWeek": 1200,
+    "timeMonth": 700,
     "timeYear": 638,
     "dailyMinutesDown": {}
   }
