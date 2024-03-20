@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/aviationcharges.iata.org.ico",
     "slug": "acic",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 664,
-    "timeDay": 825,
-    "timeWeek": 717,
-    "timeMonth": 617,
+    "timeDay": 504,
+    "timeWeek": 662,
+    "timeMonth": 620,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2023-11-29": 55,
@@ -32,13 +32,15 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 151,
-    "timeDay": 49,
-    "timeWeek": 190,
-    "timeMonth": 165,
-    "timeYear": 153,
+    "time": 150,
+    "timeDay": 76,
+    "timeWeek": 147,
+    "timeMonth": 157,
+    "timeYear": 152,
     "dailyMinutesDown": {
-      "2024-03-18": 96,
+      "2024-03-20": 95,
+      "2024-03-19": 1440,
+      "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
@@ -400,9 +402,7 @@
       "2023-03-25": 1440,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
-      "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 1440
+      "2023-03-22": 1440
     }
   },
   {
@@ -417,9 +417,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 637,
-    "timeDay": 711,
-    "timeWeek": 660,
-    "timeMonth": 612,
+    "timeDay": 471,
+    "timeWeek": 613,
+    "timeMonth": 620,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2024-01-16": 61
@@ -437,9 +437,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 809,
-    "timeDay": 973,
-    "timeWeek": 864,
-    "timeMonth": 868,
+    "timeDay": 816,
+    "timeWeek": 783,
+    "timeMonth": 882,
     "timeYear": 822,
     "dailyMinutesDown": {
       "2023-11-22": 67
@@ -456,11 +456,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 631,
-    "timeDay": 810,
-    "timeWeek": 628,
-    "timeMonth": 597,
-    "timeYear": 641,
+    "time": 632,
+    "timeDay": 564,
+    "timeWeek": 647,
+    "timeMonth": 612,
+    "timeYear": 642,
     "dailyMinutesDown": {}
   }
 ]
