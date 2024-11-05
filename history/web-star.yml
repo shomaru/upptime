@@ -1,7 +1,7 @@
 url: https://webstar.iatan.org
-status: up
-code: 200
-responseTime: 807
-lastUpdated: 2024-11-04T23:47:43.339Z
+status: down
+code: 500
+responseTime: 725
+lastUpdated: 2024-11-05T17:29:55.854Z
 startTime: 2022-02-21T03:14:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
