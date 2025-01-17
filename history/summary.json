@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 678,
-    "timeDay": 862,
-    "timeWeek": 747,
-    "timeMonth": 692,
+    "time": 679,
+    "timeDay": 700,
+    "timeWeek": 728,
+    "timeMonth": 694,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2024-06-01": 177
@@ -34,9 +34,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 159,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-01-16": 123,
+      "2025-01-17": 123,
+      "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
@@ -399,8 +400,7 @@
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
-      "2024-01-19": 1440,
-      "2024-01-18": 1440
+      "2024-01-19": 1440
     }
   },
   {
@@ -413,11 +413,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
-    "time": 620,
-    "timeDay": 836,
-    "timeWeek": 749,
-    "timeMonth": 654,
+    "uptimeYear": "99.72%",
+    "time": 619,
+    "timeDay": 496,
+    "timeWeek": 672,
+    "timeMonth": 652,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2024-06-01": 177,
@@ -436,11 +436,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 833,
-    "timeDay": 866,
-    "timeWeek": 877,
-    "timeMonth": 843,
-    "timeYear": 847,
+    "time": 834,
+    "timeDay": 1068,
+    "timeWeek": 886,
+    "timeMonth": 847,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2024-11-05": 65,
       "2024-11-04": 224,
@@ -459,11 +459,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 621,
-    "timeDay": 676,
-    "timeWeek": 665,
-    "timeMonth": 632,
-    "timeYear": 610,
+    "time": 620,
+    "timeDay": 498,
+    "timeWeek": 613,
+    "timeMonth": 630,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2024-09-16": 59,
       "2024-06-01": 177
