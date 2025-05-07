@@ -1,7 +1,7 @@
 url: https://supplylink.iata.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-07T06:44:18.421Z
+status: up
+code: 200
+responseTime: 480
+lastUpdated: 2025-05-07T07:29:28.368Z
 startTime: 2022-02-21T02:39:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
