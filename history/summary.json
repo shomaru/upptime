@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 671,
-    "timeDay": 839,
-    "timeWeek": 683,
-    "timeMonth": 814,
+    "timeDay": 642,
+    "timeWeek": 673,
+    "timeMonth": 813,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2025-01-25": 56,
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-08": 144,
+      "2025-05-09": 143,
+      "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -400,8 +401,7 @@
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
-      "2024-05-10": 1440,
-      "2024-05-09": 1440
+      "2024-05-10": 1440
     }
   },
   {
@@ -411,14 +411,14 @@
     "slug": "snap",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "96.86%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.93%",
     "time": 619,
-    "timeDay": 631,
-    "timeWeek": 643,
-    "timeMonth": 653,
+    "timeDay": 485,
+    "timeWeek": 636,
+    "timeMonth": 651,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2025-05-07": 45,
@@ -440,9 +440,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 839,
-    "timeDay": 1453,
+    "timeDay": 765,
     "timeWeek": 896,
-    "timeMonth": 868,
+    "timeMonth": 871,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2024-11-05": 65,
@@ -463,10 +463,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 620,
-    "timeDay": 716,
-    "timeWeek": 674,
+    "timeDay": 641,
+    "timeWeek": 691,
     "timeMonth": 657,
-    "timeYear": 614,
+    "timeYear": 615,
     "dailyMinutesDown": {
       "2024-09-16": 59,
       "2024-06-01": 177
