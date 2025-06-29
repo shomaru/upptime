@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 674,
-    "timeDay": 655,
-    "timeWeek": 643,
-    "timeMonth": 674,
+    "time": 675,
+    "timeDay": 861,
+    "timeWeek": 676,
+    "timeMonth": 681,
     "timeYear": 685,
     "dailyMinutesDown": {
       "2025-01-25": 56
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 146,
+      "2025-06-29": 169,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -399,8 +400,7 @@
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
-      "2024-06-30": 1440,
-      "2024-06-29": 1440
+      "2024-06-30": 1440
     }
   },
   {
@@ -412,13 +412,13 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.91%",
-    "time": 624,
-    "timeDay": 644,
-    "timeWeek": 665,
-    "timeMonth": 636,
-    "timeYear": 633,
+    "time": 625,
+    "timeDay": 862,
+    "timeWeek": 694,
+    "timeMonth": 649,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2025-06-03": 70,
       "2025-05-28": 63,
@@ -441,11 +441,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 843,
-    "timeDay": 750,
-    "timeWeek": 801,
-    "timeMonth": 831,
-    "timeYear": 849,
+    "time": 844,
+    "timeDay": 993,
+    "timeWeek": 833,
+    "timeMonth": 840,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2024-11-05": 65,
       "2024-11-04": 224,
@@ -463,11 +463,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 614,
-    "timeDay": 473,
-    "timeWeek": 604,
-    "timeMonth": 616,
-    "timeYear": 623,
+    "time": 615,
+    "timeDay": 801,
+    "timeWeek": 652,
+    "timeMonth": 621,
+    "timeYear": 624,
     "dailyMinutesDown": {
       "2024-09-16": 59
     }
