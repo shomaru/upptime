@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 678,
-    "timeDay": 809,
-    "timeWeek": 777,
-    "timeMonth": 679,
-    "timeYear": 689,
+    "time": 679,
+    "timeDay": 867,
+    "timeWeek": 833,
+    "timeMonth": 687,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2025-01-25": 56
     }
@@ -30,13 +30,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 149,
+    "time": 147,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 152,
+      "2025-07-11": 164,
+      "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -399,8 +400,7 @@
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
-      "2024-07-12": 1440,
-      "2024-07-11": 1440
+      "2024-07-12": 1440
     }
   },
   {
@@ -415,9 +415,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 626,
-    "timeDay": 677,
-    "timeWeek": 739,
-    "timeMonth": 661,
+    "timeDay": 690,
+    "timeWeek": 752,
+    "timeMonth": 662,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2025-06-03": 70,
@@ -436,15 +436,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/webstar.iatan.org.ico",
     "slug": "web-star",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 844,
-    "timeDay": 993,
-    "timeWeek": 916,
-    "timeMonth": 834,
+    "timeDay": 949,
+    "timeWeek": 948,
+    "timeMonth": 840,
     "timeYear": 853,
     "dailyMinutesDown": {
       "2024-11-05": 65,
@@ -464,9 +464,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 617,
-    "timeDay": 718,
-    "timeWeek": 670,
-    "timeMonth": 613,
+    "timeDay": 714,
+    "timeWeek": 706,
+    "timeMonth": 616,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2024-09-16": 59
