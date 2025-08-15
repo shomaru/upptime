@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 683,
-    "timeDay": 943,
-    "timeWeek": 717,
-    "timeMonth": 704,
+    "timeDay": 751,
+    "timeWeek": 745,
+    "timeMonth": 702,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2025-01-25": 56
@@ -30,13 +30,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 154,
+    "time": 116,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-14": 151,
+      "2025-08-15": 152,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -399,8 +400,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
-      "2024-08-16": 1440,
-      "2024-08-15": 1440
+      "2024-08-16": 1440
     }
   },
   {
@@ -415,10 +415,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 633,
-    "timeDay": 979,
-    "timeWeek": 690,
-    "timeMonth": 681,
-    "timeYear": 642,
+    "timeDay": 864,
+    "timeWeek": 738,
+    "timeMonth": 682,
+    "timeYear": 643,
     "dailyMinutesDown": {
       "2025-06-03": 70,
       "2025-05-28": 63,
@@ -441,11 +441,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 844,
-    "timeDay": 1076,
-    "timeWeek": 860,
-    "timeMonth": 848,
-    "timeYear": 853,
+    "time": 845,
+    "timeDay": 919,
+    "timeWeek": 883,
+    "timeMonth": 845,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2024-11-05": 65,
       "2024-11-04": 224,
@@ -458,16 +458,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pass.iata.org.ico",
     "slug": "pass",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 620,
-    "timeDay": 772,
-    "timeWeek": 651,
+    "time": 621,
+    "timeDay": 805,
+    "timeWeek": 667,
     "timeMonth": 672,
-    "timeYear": 630,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2024-09-16": 59
     }
