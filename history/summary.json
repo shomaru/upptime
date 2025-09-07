@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-07": 138,
+      "2025-09-07": 869,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -408,9 +408,9 @@
     "url": "https://supplylink.iata.org",
     "icon": "https://icons.duckduckgo.com/ip3/supplylink.iata.org.ico",
     "slug": "snap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -420,6 +420,7 @@
     "timeMonth": 681,
     "timeYear": 647,
     "dailyMinutesDown": {
+      "2025-09-07": 0,
       "2025-06-03": 70,
       "2025-05-28": 63,
       "2025-05-27": 65,
