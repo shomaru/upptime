@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-06": 143,
+      "2025-11-06": 780,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -409,7 +409,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/supplylink.iata.org.ico",
     "slug": "snap",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
@@ -442,18 +442,20 @@
     "url": "https://webstar.iatan.org",
     "icon": "https://icons.duckduckgo.com/ip3/webstar.iatan.org.ico",
     "slug": "web-star",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 610,
-    "timeWeek": 727,
-    "timeMonth": 828,
-    "timeYear": 859,
-    "dailyMinutesDown": {}
+    "time": 857,
+    "timeDay": 834,
+    "timeWeek": 769,
+    "timeMonth": 835,
+    "timeYear": 860,
+    "dailyMinutesDown": {
+      "2025-11-06": 0
+    }
   },
   {
     "name": "PASS",
