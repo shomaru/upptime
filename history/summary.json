@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-06": 780,
+      "2025-11-06": 823,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
@@ -442,19 +442,19 @@
     "url": "https://webstar.iatan.org",
     "icon": "https://icons.duckduckgo.com/ip3/webstar.iatan.org.ico",
     "slug": "web-star",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 857,
-    "timeDay": 834,
-    "timeWeek": 769,
-    "timeMonth": 835,
-    "timeYear": 860,
+    "timeDay": 809,
+    "timeWeek": 768,
+    "timeMonth": 833,
+    "timeYear": 859,
     "dailyMinutesDown": {
-      "2025-11-06": 0
+      "2025-11-06": 43
     }
   },
   {
