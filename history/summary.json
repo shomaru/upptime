@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-09": 146,
+      "2025-12-09": 1233,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -443,9 +443,9 @@
     "url": "https://webstar.iatan.org",
     "icon": "https://icons.duckduckgo.com/ip3/webstar.iatan.org.ico",
     "slug": "web-star",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
@@ -455,6 +455,7 @@
     "timeMonth": 784,
     "timeYear": 854,
     "dailyMinutesDown": {
+      "2025-12-09": 0,
       "2025-11-18": 52,
       "2025-11-06": 43
     }
