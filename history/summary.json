@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-12": 176,
+      "2026-01-12": 644,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
@@ -470,17 +470,19 @@
     "url": "https://pass.iata.org",
     "icon": "https://icons.duckduckgo.com/ip3/pass.iata.org.ico",
     "slug": "pass",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 650,
-    "timeDay": 659,
-    "timeWeek": 715,
-    "timeMonth": 740,
-    "timeYear": 661,
-    "dailyMinutesDown": {}
+    "timeDay": 582,
+    "timeWeek": 689,
+    "timeMonth": 733,
+    "timeYear": 660,
+    "dailyMinutesDown": {
+      "2026-01-12": 0
+    }
   }
 ]
