@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 709,
-    "timeDay": 647,
+    "timeDay": 645,
     "timeWeek": 726,
-    "timeMonth": 677,
+    "timeMonth": 675,
     "timeYear": 724,
     "dailyMinutesDown": {}
   },
@@ -24,14 +24,14 @@
     "slug": "snap",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "97.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.73%",
     "time": 707,
-    "timeDay": 679,
-    "timeWeek": 626,
-    "timeMonth": 630,
+    "timeDay": 664,
+    "timeWeek": 630,
+    "timeMonth": 629,
     "timeYear": 739,
     "dailyMinutesDown": {
       "2026-03-22": 39,
@@ -57,8 +57,7 @@
       "2025-05-20": 92,
       "2025-05-07": 45,
       "2025-05-05": 56,
-      "2025-03-25": 64,
-      "2025-03-24": 17
+      "2025-03-25": 64
     }
   }
 ]
