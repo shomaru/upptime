@@ -4,19 +4,20 @@
     "url": "https://aviationcharges.iata.org",
     "icon": "https://icons.duckduckgo.com/ip3/aviationcharges.iata.org.ico",
     "slug": "acic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.97%",
-    "time": 701,
+    "time": 700,
     "timeDay": 856,
     "timeWeek": 646,
     "timeMonth": 634,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2026-08-07": 175
+      "2026-08-07": 175,
+      "2026-08-17": 0
     }
   },
   {
